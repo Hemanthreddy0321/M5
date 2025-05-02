@@ -85,10 +85,16 @@ int main() {
 ```
 ## OUTPUT:
 
-     ![image](https://github.com/user-attachments/assets/ab964551-a5e1-4276-98d6-2aec7cf59f1a)
+
+
+
+     ![image](https://github.com/user-attachments/assets/2a47e378-e9f9-4355-8652-a72b1100d919)
+
 
     		
 ## RESULT:
+
+
 
 Thus the program has been executed successfully.
  

@@ -85,12 +85,12 @@ int main() {
 ```
 ## OUTPUT:
 
-
+```
 
 
      ![image](https://github.com/user-attachments/assets/2a47e378-e9f9-4355-8652-a72b1100d919)
 
-
+````
     		
 ## RESULT:
 
